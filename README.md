@@ -16,8 +16,8 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | May | 2023-06-05 | - | [Bood Dash Celebrations, upcoming events and welcoming our GSOC 2023 intern](https://tinyletter.com/TuringWay/letters/book-dash-celebrations-upcoming-events-and-welcoming-our-gsoc-2023-intern) |
 | June | 2023-07-10 | - | [Meet the Practitioners Hubs Inaugural cohort, Join the Book Das committee and catch up on our Fireside chats](https://tinyletter.com/TuringWay/letters/meet-the-practitioners-hub-s-inaugural-cohort-join-the-book-dash-committee-and-catch-up-on-our-fireside-chat) |
 | July | 2023-08-03 | - | [The turing way Book Dash call for applications, Practitioners Hub Workshop update and Github organisation plans](https://tinyletter.com/TuringWay/letters/the-turing-way-book-dash-call-for-applications-practitioners-hub-workshop-update-and-github-organisation-plans) |
-| August | - | - | - |
-| September | - | - | - |
+| August | - | - | - | 
+| September | 2023-09-03 | - | ["Who is building open source AI?" join our next Fireside Chat, last call to apply to our November Book Dash and meet us at the Festival of Hidden REF](https://tinyletter.com/TuringWay/letters/who-is-building-open-source-ai-join-our-next-fireside-chat-last-call-to-apply-to-our-november-book-dash-and-meet-us-at-the-festival-of-hidden-ref) |
 | October | - | - | - |
 | November | - | - | - |
 | December | - | - | - |
