@@ -5,6 +5,29 @@ To learn about how you can edit a newsletter draft, please read this chapter in 
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
+## 2025
+
+| Month | Date | GitHub link | Buttondown link |
+| ----- | ---- |----------- | --------------- |
+| January | 2024-02-07 | - | [Governance, Community and Other Updates from The Turing Way](https://buttondown.com/turingway/archive/governance-community-and-other-updates-from-the/) |
+
+## 2024
+
+| Month | Date | GitHub link | Buttondown link |
+| ----- | ---- |----------- | --------------- |
+| January | 2024-01-03 | - | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown](https://buttondown.com/turingway/archive/join-our-community-calls-on-governance-and-2961/) |
+| Febuary | 2024-03-13 | - | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.com/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/) |
+| March | 2024-04-03 | - | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.com/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
+| April | 2024-04-30 | - | [Last chance to apply for Book Dash, Join us at our 5 Year Birthday Celebrations at Collaborations Workshop, Catch up on Community events & more! ](https://buttondown.com/turingway/archive/last-chance-to-apply-for-book-dash-join-us-at-our/) |
+| May | 2024-05-01 | - | [Book Dash Events Next Week - Join us at Community-Wide Events!](https://buttondown.com/turingway/archive/book-dash-events-next-week-join-us-at-community/) |
+| June | 2024-07-04 | - | [Join our Upcoming Community Forum, Book Dash Highlights and June Round up](https://buttondown.com/turingway/archive/join-our-upcoming-community-forum-book-dash/) |
+| July | 2024-07-31 | - | [Last call to help plan our next Book Dash, catch up on our Code for Thought podcasts, and more!](https://buttondown.com/turingway/archive/last-call-to-help-plan-our-next-book-dash-catch/) |
+| August | 2024-09-04 | - | [Apply for our November Book Dash and join our upcoming Fireside Chat!](https://buttondown.com/turingway/archive/apply-for-our-november-book-dash-and-join-our/) | 
+| September | 2024-09-30 | - | [Last day to apply for our November Book Dash, Welcome to our new Project Manager, and join our upcoming community calls!](https://buttondown.com/turingway/archive/last-day-to-apply-for-our-november-book-dash/) |
+| October | - | - | - |
+| November | 2024-11-22 | - | [The Turing Way Community Updates and a Message from Founder Kirstie Whitaker](https://buttondown.com/turingway/archive/the-turing-way-community-updates-and-a-message/) |
+| December | 2024-12-23 | - | [The Turing Way's 2024 Year in Review and End of the Year Updates!](https://buttondown.com/turingway/archive/2024-year-in-review-and-end-of/) |
+
 ## 2023
 
 | Month | Date | GitHub link | TinyLetter link |
