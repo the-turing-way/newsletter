@@ -30,7 +30,7 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 ## 2023
 
-| Month | Date | GitHub link | TinyLetter link |
+| Month | Date | GitHub link | TinyLetter or Buttondown link |
 | ----- | ---- |----------- | --------------- |
 | January | 2023-01-31 | - | [A new year at the Turing Way, Happy 2023](https://tinyletter.com/TuringWay/letters/a-new-year-with-the-turing-way-happy-2023) |
 | Febuary | 2023-03-03 | - | [Book Dash Applications Open and stay tuned for our coming Fireside Chat](https://tinyletter.com/TuringWay/letters/book-dash-applications-are-open-and-stay-tuned-for-our-upcoming-fireside-chat) |
@@ -41,9 +41,9 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | July | 2023-08-03 | - | [The turing way Book Dash call for applications, Practitioners Hub Workshop update and Github organisation plans](https://tinyletter.com/TuringWay/letters/the-turing-way-book-dash-call-for-applications-practitioners-hub-workshop-update-and-github-organisation-plans) |
 | August | - | - | - | 
 | September | 2023-09-03 | - | ["Who is building open source AI?" join our next Fireside Chat, last call to apply to our November Book Dash and meet us at the Festival of Hidden REF](https://tinyletter.com/TuringWay/letters/who-is-building-open-source-ai-join-our-next-fireside-chat-last-call-to-apply-to-our-november-book-dash-and-meet-us-at-the-festival-of-hidden-ref) |
-| October | - | - | - |
-| November | - | - | - |
-| December | - | - | - |
+| October | 2023-11-02 | - | [Countdown to Book Dash, a new chapter on The Environmental Impact of Digital Research and watch our September Fireside Chat](https://buttondown.com/turingway/archive/countdown-to-book-dash-a-new-chapter-on-the/) |
+| November | 2023-12-08 | - | [Wrap up 2023 with The Turing Way: Fireside Chat, Pathway Feature for Curated Chapters, and Community Highlights!](https://buttondown.com/turingway/archive/wrap-up-2023-with-the-turing-way-fireside-chat/) |
+| December | 2023-12-22 | - | [The Turing Way's 2023 Year in Review](https://buttondown.com/turingway/archive/the-turing-ways-2023-year-in-review/) |
 
 ## 2022
 
