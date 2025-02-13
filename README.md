@@ -15,7 +15,7 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
-| January | 2024-01-03 | - | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown](https://buttondown.com/turingway/archive/join-our-community-calls-on-governance-and-2961/) |
+| January | 2024-01-03 | [50_Jan2024](newsletter_50_Jan2024.md) | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown](https://buttondown.com/turingway/archive/join-our-community-calls-on-governance-and-2961/) |
 | Febuary | 2024-03-13 | - | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.com/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/) |
 | March | 2024-04-03 | - | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.com/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
 | April | 2024-04-30 | - | [Last chance to apply for Book Dash, Join us at our 5 Year Birthday Celebrations at Collaborations Workshop, Catch up on Community events & more! ](https://buttondown.com/turingway/archive/last-chance-to-apply-for-book-dash-join-us-at-our/) |
