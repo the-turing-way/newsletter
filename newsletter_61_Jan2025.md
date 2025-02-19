@@ -256,7 +256,7 @@ _It's been a busy few months of talks by and with community leaders. As always, 
     - ⏰ Apply by 11 February 2025
     - 📍 Location: Rotterdam, the Netherlands
     - 🔗 [Read Details](https://www.academictransfer.com/nl/jobs/348739/project-manager-to-recognize-open-science-0-6-0-7-fte)
-- Event: Responsible Research in Actino: Project Manager
+- Event: Responsible Research in Action: Project Manager
     - ⏰ Apply by 9 February 2025
     - 📍 Location: Berlin, Germany
     - 🔗 [Read Details](https://rr-in-action2025.org/info-for-application/)
