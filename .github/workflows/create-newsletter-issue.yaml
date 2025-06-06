@@ -1,0 +1,34 @@
+name: Create a newsletter issue
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+jobs:
+  create-newsletter-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install jinja2
+        run: |
+          python -m pip install jinja2
+
+      - name: Generate issue text
+        id: generate-text
+        working-directory: .github/resources
+        run: |
+          python create-newsletter-issue.py
+
+      - name: Create an issue
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: ${{ steps.generate-text.output.ISSUE_TITLE }}
+          content-filepath: .github/resources/output.md
