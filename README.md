@@ -9,7 +9,11 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
-| January | 2024-02-07 | - | [Governance, Community and Other Updates from The Turing Way](https://buttondown.com/turingway/archive/governance-community-and-other-updates-from-the/) |
+| January | 20245-02-07 | - | [Governance, Community and Other Updates from The Turing Way](https://buttondown.com/turingway/archive/governance-community-and-other-updates-from-the/) |
+| Feb | 2025-03-04 | - | [Join our March Fireside Chat, Learn more about our shift to JupyterBook 2, and Catch-up on Community updates from this month!](https://buttondown.com/turingway/archive/join-our-march-fireside-chat-learn-more-about-our/) |
+| March | 2024-04-02 | - | [Join The Turing Way Community Forum, Apply to attend Book Dash, and Other Updates!](https://buttondown.com/turingway/archive/the-turing-way-march-2025-updates/) |
+| April | - | - | - |
+| May | 2024-02-07 | - | [Get to Know Our Steering Committee, and Important Changes in The Turing Way Governance](https://buttondown.com/turingway/archive/get-to-know-our-steering-committee-and-important/) |
 
 ## 2024
 
