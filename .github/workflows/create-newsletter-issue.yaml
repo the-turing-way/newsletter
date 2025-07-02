@@ -32,3 +32,4 @@ jobs:
         with:
           title: "${{ steps.generate-text.outputs.ISSUE_TITLE }}"
           content-filepath: .github/resources/output.md
+          assignees: the-turing-way/community-management-working-group
