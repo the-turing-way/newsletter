@@ -1,4 +1,4 @@
-from os import getenv
+import os
 from datetime import datetime
 import jinja2
 
@@ -25,8 +25,7 @@ if ci is None:
 else:
     print("Running in CI...")
     # Save the Variable to GITHUB_OUTPUT to use in a later step
-    output_file = getenv("GITHUB_OUTPUT")
-    with open(output_file, "w") as f:
+    with open(os.environ["GITHUB_OUTPUT"], "a") as f:
         f.write(f"ISSUE_TITLE={issue_title}\n")
     
     with open("output.md", "w") as f:
