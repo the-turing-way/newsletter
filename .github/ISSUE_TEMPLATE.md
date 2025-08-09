@@ -1,4 +1,9 @@
-Please add things you would like to add to the {{ month }} {{ year }} newsletter here, whether that's:
+---
+title: Newsletter {{ date | date('MMMM YYYY') }}
+assignees: []
+labels: []
+---
+Please add things you would like to add to the {{ date | date('MMMM YYYY') }} newsletter here, whether that's:
 
 - Events or talks where you featured or talked about The Turing Way
 - Roles, opportunities, and/or jobs that others can apply for
