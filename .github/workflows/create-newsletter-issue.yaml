@@ -1,0 +1,23 @@
+name: Create a newsletter issue
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  create-newsletter-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # File this action uses is .github/ISSUE_TEMPLATE.md
+      - name: Create an issue from a template
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -175,17 +175,16 @@ Find the joining link on this shared [Etherpad](https://annuel2.framapad.org/p/t
 
 You are welcome to join *The Turing Way* community, and learn more about the project.
 
-*   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-*   [_The Turing Way_ book](https://the-turing-way.netlify.com)
-*   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
-*   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
-*   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
-*   [Mastodon profile](https://scholar.social/web/@turingway@fosstodon.org)
-*   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-*   [Twitter profile](https://twitter.com/turingway)
-*   [Bluesky profile](https://bsky.app/profile/turingway.bsky.social)
-*   [Linkedin](https://www.linkedin.com/company/98381282/admin/dashboard/)
+- [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
+- [*The Turing Way* book](https://book.the-turing-way.org/)
+- [Start Page](https://the-turing-way.start.page/)
+- [GitHub Organisation](https://github.com/the-turing-way/)
+- [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
+- [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
+- [Mastodon profile](https://scholar.social/web/@turingway@fosstodon.org)
+- [Bluesky profile](https://bsky.app/profile/turingway.bsky.social)
+- [Linkedin](https://www.linkedin.com/company/98381282/admin/dashboard/)
 
-If you'd like to contribute to the next newsletter, please email Anne Lee Steele at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)! Feel free to send her a message on Slack, or [book some time in on Anne's calendly](calendly.com/aleesteele/) to say hello.
+If you'd like to contribute to the next newsletter, please email Anne Lee Steele at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)! Feel free to send her a message on Slack, or book some time in on Anne's calendly to say hello.
 
-_Did you miss the last newsletters?_ _Check them out [here](https://tinyletter.com/TuringWay/archive)._
+*Did you miss the last newsletters?* *Check them out* [*here*](https://tinyletter.com/TuringWay/archive)*.*
