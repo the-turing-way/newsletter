@@ -1,4 +1,5 @@
-August 2025 - One conversation at a time
+July edition/ sent 5th August 2025
+# One conversation at a time
 
 Shorter than usual, shiny as ever! 🔆
 
