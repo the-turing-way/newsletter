@@ -1,4 +1,5 @@
-September 2025 - Bridging communities and open science
+August 2025 - sent 8th Sept
+# Bridging communities and open science
 
 August has been a quiet month, full with opportunities to slow down and rest intentionally. Yet, we still have some news and opportunities to share with our community ☀️
 
