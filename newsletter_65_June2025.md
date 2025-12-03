@@ -1,4 +1,4 @@
-# July 2025 - Attend Fireside Chats on Governance, Join a Working Group, and Stay Connected with Our Community
+# June edition/Sent 10th July 2025 - Attend Fireside Chats on Governance, Join a Working Group, and Stay Connected with Our Community
 
 As always, there are many updates to share from The Turing Way community!
 
