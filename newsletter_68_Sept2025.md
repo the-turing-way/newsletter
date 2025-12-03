@@ -1,7 +1,7 @@
-* Sent out on the 14th October 2025
+Sept edition/  Sent out on the 14th October 2025
 
 
-🍂Autumn is here, let's make our community dear!
+# 🍂Autumn is here, let's make our community dear!
 
 
 *👀Have a look through our first Autumn edition: very interesting talks delivered by our community members, wrapping up our Governance Fireside chats, and updates form our working groups…*  
