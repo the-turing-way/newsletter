@@ -17,7 +17,6 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | June | 2025-07-10 | [65_Jun2025](newsletter_65_Jun2025.md) | [Attend Fireside Chats on Governance, Join a Working Group, and Stay Connected with Our Community](https://buttondown.com/turingway/archive/attend-fireside-chats-on-governance-join-a/) |
 | July | 2025-08-05 | [66_Jul2025](newsletter_66_Jul2025.md) | [One conversation at a time](https://buttondown.com/turingway/archive/one-conversation-at-a-time/) |
 | August | 2025-09-08 | [67_Aug2025](newsletter_67_Aug2025.md) | [Bridging communities and open science](https://buttondown.com/turingway/archive/one-conversation-at-a-time-copy/) |
-
 | September | 2025-10-14 | [68_Sep2025](newsletter_68_Sep2025.md) | [🍂Autumn is here, let's make our community dear!](https://buttondown.com/turingway/archive/autumn-is-here-lets-make-our-community-dear/) |
 | --- | 2025-09-15 | [69_BookDash](newsletter_69_BookDash2025.md) | [Countdown to TTW November Book dash](https://buttondown.com/turingway/archive/countdown-to-ttw-november-book-dash/) |
 | October | 2025-11-07 | [70_Oct2025](newsletter_70_Oct2025.md) | [❤️ October newsletter - And then they were two!](https://buttondown.com/turingway/archive/october-newsletter-and-then-they-were-two/) |
