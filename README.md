@@ -9,18 +9,25 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
-| January | 20245-02-07 | - | [Governance, Community and Other Updates from The Turing Way](https://buttondown.com/turingway/archive/governance-community-and-other-updates-from-the/) |
-| Feb | 2025-03-04 | - | [Join our March Fireside Chat, Learn more about our shift to JupyterBook 2, and Catch-up on Community updates from this month!](https://buttondown.com/turingway/archive/join-our-march-fireside-chat-learn-more-about-our/) |
-| March | 2024-04-02 | - | [Join The Turing Way Community Forum, Apply to attend Book Dash, and Other Updates!](https://buttondown.com/turingway/archive/the-turing-way-march-2025-updates/) |
+| January | 2025-02-07 | [61_Jan2025](newsletter_61_Jan2025.md) | [Governance, Community and Other Updates from The Turing Way](https://buttondown.com/turingway/archive/governance-community-and-other-updates-from-the/) |
+| February | 2025-03-04 | [62_Feb2025](newsletter_62_Feb2025.md) | [Join our March Fireside Chat, Learn more about our shift to JupyterBook 2, and Catch-up on Community updates from this month!](https://buttondown.com/turingway/archive/join-our-march-fireside-chat-learn-more-about-our/) |
+| March | 2025-04-02 | [63_Mar2025](newsletter_63_Mar2025.md) | [Join The Turing Way Community Forum, Apply to attend Book Dash, and Other Updates!](https://buttondown.com/turingway/archive/the-turing-way-march-2025-updates/) |
 | April | - | - | - |
-| May | 2024-02-07 | - | [Get to Know Our Steering Committee, and Important Changes in The Turing Way Governance](https://buttondown.com/turingway/archive/get-to-know-our-steering-committee-and-important/) |
+| May | 2025-06-04 | [64_May2025](newsletter_64_May2025.md) | [Get to Know Our Steering Committee, and Important Changes in The Turing Way Governance](https://buttondown.com/turingway/archive/get-to-know-our-steering-committee-and-important/) |
+| June | 2025-07-10 | [65_Jun2025](newsletter_65_Jun2025.md) | [Attend Fireside Chats on Governance, Join a Working Group, and Stay Connected with Our Community](https://buttondown.com/turingway/archive/attend-fireside-chats-on-governance-join-a/) |
+| July | 2025-08-05 | [66_Jul2025](newsletter_66_Jul2025.md) | [One conversation at a time](https://buttondown.com/turingway/archive/one-conversation-at-a-time/) |
+| August | 2025-09-08 | [67_Aug2025](newsletter_67_Aug2025.md) | [Bridging communities and open science](https://buttondown.com/turingway/archive/one-conversation-at-a-time-copy/) |
+| September | 2025-10-14 | [68_Sep2025](newsletter_68_Sep2025.md) | [🍂Autumn is here, let's make our community dear!](https://buttondown.com/turingway/archive/autumn-is-here-lets-make-our-community-dear/) |
+| --- | 2025-09-15 | [69_BookDash](newsletter_69_BookDash2025.md) | [Countdown to TTW November Book dash](https://buttondown.com/turingway/archive/countdown-to-ttw-november-book-dash/) |
+| October | 2025-11-07 | [70_Oct2025](newsletter_70_Oct2025.md) | [❤️ October newsletter - And then they were two!](https://buttondown.com/turingway/archive/october-newsletter-and-then-they-were-two/) |
+| November | 2025-12-02 | [71_Nov2025](newsletter_71_Nov2025.md) | [🍂The Turing Way November newsletter is here!](https://buttondown.com/turingway/archive/the-turing-way-november-newsletter-is-here/) |
 
 ## 2024
 
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
 | January | 2024-01-03 | [50_Jan2024](newsletter_50_Jan2024.md) | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown](https://buttondown.com/turingway/archive/join-our-community-calls-on-governance-and-2961/) |
-| Febuary | 2024-03-13 | [51_Feb2024](newsletter_51_Feb2024.md) | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.com/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/) |
+| February | 2024-03-13 | [51_Feb2024](newsletter_51_Feb2024.md) | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.com/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/) |
 | March | 2024-04-03 | [52_Mar2024](newsletter_52_Mar2024.md) | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.com/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
 | April | 2024-04-30 | [53_Apr2024](newsletter_53_Apr2024.md) | [Last chance to apply for Book Dash, Join us at our 5 Year Birthday Celebrations at Collaborations Workshop, Catch up on Community events & more! ](https://buttondown.com/turingway/archive/last-chance-to-apply-for-book-dash-join-us-at-our/) |
 | May | 2024-05-01 | [54_May2024](newsletter_54_May2024.md) | [Book Dash Events Next Week - Join us at Community-Wide Events!](https://buttondown.com/turingway/archive/book-dash-events-next-week-join-us-at-community/) |
