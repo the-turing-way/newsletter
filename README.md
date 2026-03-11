@@ -5,6 +5,12 @@ To learn about how you can edit a newsletter draft, please read this chapter in 
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
+## 2026
+
+| Month | Date | GitHub link | Buttondown link |
+| ----- | ---- |----------- | --------------- |
+| February | 2026-03-10 | [72_Feb2026](newsletter_72_Feb2026.md) | [🌸 Did you miss us? The Turing Way's 2025 in Review](https://buttondown.com/turingway/archive/u1f338-did-you-miss-us-the-turing-ways-2025-in/) |
+
 ## 2025
 
 | Month | Date | GitHub link | Buttondown link |
