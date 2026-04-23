@@ -9,7 +9,7 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
-| February | 2026-03-10 | [72_Feb2026](newsletter_72_Feb2026.md) | [🌸 Did you miss us? The Turing Way's 2025 in Review](https://buttondown.com/turingway/archive/u1f338-did-you-miss-us-the-turing-ways-2025-in/) |
+| February | 2026-03-10 | [73_Feb2026](newsletter_73_Feb2026.md) | [🌸 Did you miss us? The Turing Way's 2025 in Review](https://buttondown.com/turingway/archive/u1f338-did-you-miss-us-the-turing-ways-2025-in/) |
 
 ## 2025
 
