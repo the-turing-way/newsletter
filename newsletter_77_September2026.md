@@ -37,17 +37,34 @@ Join us, and [register on zoom here](ADD Link to zoom).
 ## Application Open for November Book Dash!
 
 Add blurb and application form link
-📅 30th November until 4th December 2026
+📅 **30th November until 4th December 2026**
 - 30th November and 1st December - Online
-- 2nd and 3rd December - in-person hubs in London and ...
-- 4th December - Community Shareouts  
+- 2nd and 3rd December 2026 - in-person local hubs in London and ...
+- 4th December 2026 - Two Community Shareouts  
 
+## Survey on contributions to The Turing Way - Still open!
 
-## Upcoming events
+We have a survey about your engagement with The Turing Way! 
+Please take ~5 minutes to fill out the questions, which should help us to identify better ways to support The Turing Way contributors in the long haul (and help publish this article by Esther Plomp & Denise Bianco: https://doi.org/10.5281/zenodo.18624335- in which you can also find more information about the study).
 
-📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
+[Fill out the survey form is here](https://docs.google.com/forms/d/e/1FAIpQLSenSRSRdoCx6TUAKOpUplH7aSTDcXMPQsVRedbg1UU0O9w2Og/viewform)
 
-✨ If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023).
+# The Turing Way Community Out and About
+
+![Alt: A person adding a new file on GitHub via a Pull Request, while another member reviews and approves it for them to merge it the the book.](https://i.imgur.com/Jg0IDWH.png)
+_Illustration by Scriberia. 
+Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
+
+There are lots of updates from the community from the past few months: everything from adding new collaborators to new chapters, project updates, to everything in between!
+
+## Keynote Speech at PyCon Columbia
+
+Dr Malvika Sharan travelled to Medellin, Columbia, in late July to give a keynote speech at PyCon Columbia 26. Her talk, titled 'What we carry forward', focused on the research, community and sustainability under change, particularly the changes we are all seeing now in our research practices due to AI. Find out more about the conference on the [webpage here](https://2026.pycon.co/) and also this [LinkedIn post about Malvika's keynote talk](https://www.linkedin.com/posts/malvikasharan_malvika-sharan-invites-you-to-pycon-colombia-activity-7478567251084759040-itAk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAes7UwBM2Qq7FLWDGEu-S0CUaSygrRFfMY). 
+
+## Turing Way Community Members at RSECon
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
+
 
 ## Recurring Community Events and Calls ☕
 
@@ -62,28 +79,12 @@ Feel free to drop in to meet the community, do some focused writing, or otherwis
 * ✅ **Community Management Working Group Meetings**: every Tuesday at 14:00 UK time.
 * ✅ **Funding and Sustainability Meetings**: every second Friday of the month, at 15:00 UK time.
 
-# Community News
+## Upcoming events
 
-![Alt: A person adding a new file on GitHub via a Pull Request, while another member reviews and approves it for them to merge it the the book.](https://i.imgur.com/Jg0IDWH.png)
-_Illustration by Scriberia. 
-Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
+📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
 
-There are lots of updates from the community from the past few months: everything from adding new collaborators to new chapters, project updates, to everything in between!
+✨ If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023).
 
-## Keynote Speech at PyCon Columbia
-
-Dr Malvika Sharan travelled to Medellin, Columbia, in late July to give a keynote speech at PyCon Columbia 26. Her talk, titled 'What we carry forward', focused on the research, community and sustainability under change, particularly the changes we are all seeing now in our research practices due to AI. Find out more about the conference on the [webpage here](https://2026.pycon.co/) and also this [LinkedIn post about Malvika's keynote talk](https://www.linkedin.com/posts/malvikasharan_malvika-sharan-invites-you-to-pycon-colombia-activity-7478567251084759040-itAk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAes7UwBM2Qq7FLWDGEu-S0CUaSygrRFfMY). 
-
-## RSECon
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
-
-## Survey on contribution to The Turing Way - Still open!
-
-We have a survey about your engagement with The Turing Way! 
-Please take ~5 minutes to fill out the questions, which should help us to identify better ways to support The Turing Way contributors in the long haul (and help publish this article by Esther Plomp & Denise Bianco: https://doi.org/10.5281/zenodo.18624335- in which you can also find more information about the study).
-
-[Fill out the survey form is here](https://docs.google.com/forms/d/e/1FAIpQLSenSRSRdoCx6TUAKOpUplH7aSTDcXMPQsVRedbg1UU0O9w2Og/viewform)
 ---
 
 ![Alt: Hand-drawn sketch of two people walking up a hill with different paths up a hill titled: Your path, Your stories, your experience. The subtitle "People are really important" is next to the paths. At the top of the hill lies people, and the subtitle "The better world for researchers.](https://i.imgur.com/eEbL1jD.jpg)
@@ -102,10 +103,13 @@ _It's been a busy few months of talks by and with community leaders. As always, 
 
 # In *The Turing Way* Orbit
 
-## Role at Turing or Related Institution
+## SSI Fellowship applications open!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. [Read More here](https://)
-- ⏰ Apply by 15 January 2023
+
+
+## RCM Cooperative Monthly Meetups starting 15 September
+
+
 
 ## Other opportunities
 - Job: Organisation: Role
