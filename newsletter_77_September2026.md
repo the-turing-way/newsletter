@@ -1,15 +1,16 @@
-# TTW Newsletter Title
+# Busy Month Ahead!
 
-Short description title for first line.
+Although many of our community members took a well earned break over August, September looks to be busy month for The Turing Way and our connected communities. 
 
-Longer description paragraph goes here that says a little bit more about the project.
+One thing you don’t want to miss is this month's Community Forum, happening on the 24th September at 14:00-15:30 UTC+1. Community Forums bring together members of The Turing Way community - including people who have not yet contributed to the project. Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. In this month's forum, we will be discussing the Turing Way AI Policy. Register here to participate!
 
-* 📢 Bullet list highlight 
-* 📢 Bullet list highlight
-* 📢 Bullet list highlight 
-* 📢 Bullet list highlight 
+Othe things also going on are:
+* 📢 The Turing Way Book Dash November 2026 applications are now open!
+* 📢 Apply for the Software Sustainability Institute Fellowship
+* 📢 Join the first RCM Cooperative Meetup
+* 📢 Community members at RSECon
 
-Sometimes an additional description goes here.
+Enjoy and keep the conversations coming!
 
 As usual, you can find more updates and opportunities in the 'Community News' and 'Opportunities in _The Turing Way_ orbit' sections below. 
 To keep up to date with community events, you can also subscribe to our [shared calendar here](https://calendar.google.com/calendar/u/0/r?cid=theturingway@gmail.com). 📅
@@ -44,15 +45,11 @@ Hosted all throughout the month, our recurring community calls are important and
 
 Some require sign-ups (📝) and some don't (✅), but absolutely **all are welcome to these calls!** ✨
 
-* 📝 **Onboarding calls**: The next call is on 30 October, 15:00-16:00 UTC+1 ([in your timezone](https://arewemeetingyet.com/london/2024-10-30/15:00)). These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project! [Sign-ups are open](https://forms.gle/16VVsNuveqhnE43F9).
-* 📝 **Community forums**: The next call is on 18 October, 15:00-16:30 UTC+1 ([in your timezone](https://arewemeetingyet.com/london/2024-10-18/15:00)). See below for more information.
-* ✅ **Collaboration Cafe**: The next call is on 3 April, 14:00-16:00 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2024-03-20/15:00)).
+* 📝 **Community forums**: The next call is on 24 September, 14:00-15:30 UTC+1 ([in your timezone](https://arewemeetingyet.com/London/2026-09-24/14:00/The%20Turing%20Way%20Community%20Forum). See below for more information.
+* ✅ **Collaboration Cafe**: The next call is on 16 September, 14:00-16:00 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2026-09-16/14:00/The%20Turing%20Way%20Collaboration%20cafe).
 Feel free to drop in to meet the community, do some focused writing, or otherwise -- [more information on Etherpad](https://annuel2.framapad.org/p/ttw-collaboration-cafe). 
-* ✅ **Coworking Calls**: every Monday, 10:00 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2024-03-31/11:00)). 
-Find the joining link on this shared [Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call).
 * ✅ **Translation and Localisation Weekly Meetings**: every other Wednesday at 14:30 UTC+1 ([in your time zone](https://arewemeetingyet.com/London/2024-02-14/14:00)). These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team. Join the [#translation](https://theturingway.slack.com/archives/C01E17C1K35) channel on Slack for more. 
 * ✅ **Infrastructure Monthly Meetings**: every second Tuesday of the month, at 16:00 UTC+1 ([in your time zone](https://arewemeetingyet.com/London/2024-02-08/16:00)). These calls are for co-working on infrastructure support, and for learning more about the work of the team. Join the [#infrastructure](https://theturingway.slack.com/archives/C01EUGMQSNP) channel on Slack for more.
-* ✅ **Accessibility Monthly Meetings**: every second Monday of the month, at 17:00 UTC+1 ([in your time zone](https://arewemeetingyet.com/London/2024-02-12/17:00)). These calls are for planning monthly sprints and co-working on access-related chapters and upcoming guide. Join the [#accessibility](https://theturingway.slack.com/archives/C01E654A42E) channel on Slack for more.
 
 # Community News
 
@@ -62,7 +59,7 @@ Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org
 
 There are lots of updates from the community from the past few months: everything from adding new collaborators to new chapters, project updates, to everything in between!
 
-## Title for event in community
+## Keynote speech at PyCon Columbia by Malvika Sharan
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
 
