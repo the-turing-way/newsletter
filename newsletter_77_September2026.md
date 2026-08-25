@@ -103,8 +103,14 @@ _It's been a busy few months of talks by and with community leaders. As always, 
 
 # In *The Turing Way* Orbit
 
-## SSI Fellowship applications open!
+## Software Sustainabilty Institute (SSI) Fellowship applications open!
+The Turing Way Community has many SSI Fellows as the two organisations are very aligned in their visions and so we are excited to see the applications for the 2027 round of the SSI Fellowship Programme are now open.
 
+The Fellowship Programme aims to improve and promote good computational practice across all research disciplines and support those who are doing this important work. Each year, the SSI select around 20 Fellows, including up to three international Fellows. Each Fellow receives a £4,000 budget to organise or attend activities that promote good software practice, and joins a wider community through mentoring, cohort-based learning, monthly community calls, study groups, and attendance at the annual Collaborations Workshop.
+
+The programme is open to applicants at any career stage and from any background: PhD candidates, junior research software engineers, professors, directors of research computing, and anyone who supports research, training, or research infrastructure, including those without a formal software background.
+
+Find more details on the [webpage here](https://www.software.ac.uk/news/ssi-fellowship-programme-2027-applications-open) and feel free to put a comment in our #askaway slack channel if you want to know more about the experience of actual fellows.
 
 
 ## RCM Cooperative Monthly Meetups starting 15 September
