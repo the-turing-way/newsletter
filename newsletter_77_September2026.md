@@ -6,7 +6,7 @@ One thing you don’t want to miss is this month's Community Forum, happening on
 
 Other things also going on are:
 * 📢 The Turing Way Book Dash November 2026 applications are now open!
-* 📢 Apply for the Software Sustainability Institute Fellowship
+* 📢 Apply for the Institute of Research Software Fellowship
 * 📢 Join the first RCM Cooperative Meetup
 * 📢 Community members at conferences - PyCon and RSECon
 
@@ -24,7 +24,7 @@ If you're interested in keeping up in real-time, don't forget that you can alway
 ![Alt: Hand-drawn sketch of "our Community" drawn, featuring a garden that has people working with each other in maintaining, cleaning, working on computers and welcoming others.](https://i.imgur.com/AJgGmCn.jpg)
 _Illustration by Scriberia showing community as a garden and members as gardeners. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
-## Upcoming Community Forum and AI policy development
+## Upcoming Community Forum and AI policy development - have your say
 
 ![Alt: Alt text goes here.](https://i.imgur.com/fl5JIAd.png)
 
@@ -40,15 +40,42 @@ To join the community forum, please [register on zoom here](https://us06web.zoom
 
 ## Applications Open for November Book Dash!
 
-Add blurb and application form link
-📅 **30th November until 4th December 2026**
-- 30th November and 1st December - Online
-- 2nd and 3rd December 2026 - in-person local hubs in London and ...
-- 4th December 2026 - Two Community Shareouts  
+Applications are now open for our 16th Book Dash!
+
+The Turing Way Book Dash is a bi-annual collaborative event where you'll work with others to add to and improve The Turing Way book or contribute to the project in another way and become a part of its community. Find more details about the Book Dash in [The Turing Way Community Handbook](https://book.the-turing-way.org/community-handbook/bookdash/).
+
+Our forthcoming Book Dash will happen during the week of **30th November to 4th December**.
+
+This time, we will start the week with two days of online contribution sessions on 30th November and 1st December. The following two days, 2nd and 3rd December, will have various local in-person hubs located around the world - London, UK, the Netherlands, and Memphis, USA.
+
+We are very grateful to be supported at this Book Dash by the Institute of Research Software, which allows us to provide an accessibility fund for participants. More details of our accessibility fund can be found on the application form. 
+
+Applications are open to first time book dashers (those that have interacted in some way with The Turing Way Community but not attended Book Dash) or returners - you just need an idea of what you would like to contribute or how you could help out the project. It's only a short application form.
+
+If you have any questions about the Book Dash or your application, please come along to our Collaboration Cafe on the 16 September 2026 at 2pm-4pm UK time (UTC+1).
+
+To apply for the Book Dash, please fill in [the application form](ADD Link). 
+
+**Please apply by 28 October 2026 (midnight anywhere on Earth).** 
+
+
+## Scriberia at the November Book Dash
+
+We are excited to announce the return of Scriberia to the Book Dash. 
+
+Scriberia are the amazing illustrators that we have collaborated with to develop our science communication illustrations. These images are used throughout our book and project, but also reused by thousands of people in the open research and data science ecosystem. The illustrations have been downloaded over 67,000 times and our archive of images can be found on Zenodo at this DOI: [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+
+Book Dash participants will get the chance to work with a Scriberia artist to develop new illustrations for The Turing Way.
+
+Apply to the Book Dash to have this unique science communications experience. 
+
+The Book Dash application form can be found at this link: [Add Link]().  
+
 
 ## Survey on contributions to The Turing Way - Still open!
 
 We have a survey about your engagement with The Turing Way! 
+
 Please take ~5 minutes to fill out the questions, which should help us to identify better ways to support The Turing Way contributors in the long haul (and help publish this article by Esther Plomp & Denise Bianco: https://doi.org/10.5281/zenodo.18624335- in which you can also find more information about the study).
 
 [Fill out the survey form is here](https://docs.google.com/forms/d/e/1FAIpQLSenSRSRdoCx6TUAKOpUplH7aSTDcXMPQsVRedbg1UU0O9w2Og/viewform)
@@ -59,16 +86,17 @@ Please take ~5 minutes to fill out the questions, which should help us to identi
 _Illustration by Scriberia. 
 Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
-There are lots of updates from the community from the past few months: everything from adding new collaborators to new chapters, project updates, to everything in between!
-
 ## Keynote Speech at PyCon Columbia
 
 Dr Malvika Sharan travelled to Medellin, Columbia, in late July to give a keynote speech at PyCon Columbia 26. Her talk, titled 'What we carry forward', focused on the research, community and sustainability under change, particularly the changes we are all seeing now in our research practices due to AI. Find out more about the conference on the [webpage here](https://2026.pycon.co/) and also this [LinkedIn post about Malvika's keynote talk](https://www.linkedin.com/posts/malvikasharan_malvika-sharan-invites-you-to-pycon-colombia-activity-7478567251084759040-itAk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAes7UwBM2Qq7FLWDGEu-S0CUaSygrRFfMY). 
 
 ## Turing Way Community Members at RSECon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
+The Turing Way community members (Oscar Seip, Precious Onyewuchi, and Maryblessing Okolie) joined the flagship event of the Society of Research Software Engineering and the research software community, [RSECon](https://rsecon26.society-rse.org/).
 
+The conference provides a forum to share ideas, debate strategies, and develop collective visions for the future of Research Software Engineering and recognition for those behind it.
+
+We loved seeing members of the Turing Way participate in delivering the conference, contributing to discussions and helping shape the trajectory of research software, research software quality, performance, and evidence.
 
 ## Recurring Community Events and Calls ☕
 
