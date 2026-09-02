@@ -28,11 +28,15 @@ _Illustration by Scriberia showing community as a garden and members as gardener
 
 ![Alt: Alt text goes here.](https://i.imgur.com/fl5JIAd.png)
 
-This month, we're gathering our community to get input on our AI Policy 
-Community Forum on 24 September Month, 15:00-16:30 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2022-06-30/16:00)).
-Chaired by Arielle Bennett.   
-See this issue for our current discussion on this topic and link to our AI Policy in development - [ADD LINK]
-Join us, and [register on zoom here](ADD Link to zoom). 
+This month, we're gathering our community to get input on our AI Policy at the Community Forum on 24 September Month, 15:00-16:30 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2022-06-30/16:00)).
+
+Our forum will be chaired by Arielle Bennett.   
+
+We encourage you to read and comment on our AI policy before the forum. 
+- Draft of AI policy - https://github.com/the-turing-way/the-turing-way/pull/4691
+- Discussion of Gen AI in the Turing Way - https://github.com/orgs/the-turing-way/discussions/4502
+
+To join the community forum, please [register on zoom here](https://us06web.zoom.us/meeting/register/_ZEFMawfRUatwO_VeWEzFg). 
 
 ## Application Open for November Book Dash!
 
