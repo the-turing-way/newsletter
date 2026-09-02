@@ -38,7 +38,7 @@ We encourage you to read and comment on our AI policy before the forum.
 
 To join the community forum, please [register on zoom here](https://us06web.zoom.us/meeting/register/_ZEFMawfRUatwO_VeWEzFg). 
 
-## Application Open for November Book Dash!
+## Applications Open for November Book Dash!
 
 Add blurb and application form link
 📅 **30th November until 4th December 2026**
