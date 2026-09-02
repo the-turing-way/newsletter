@@ -24,7 +24,7 @@ If you're interested in keeping up in real-time, don't forget that you can alway
 ![Alt: Hand-drawn sketch of "our Community" drawn, featuring a garden that has people working with each other in maintaining, cleaning, working on computers and welcoming others.](https://i.imgur.com/AJgGmCn.jpg)
 _Illustration by Scriberia showing community as a garden and members as gardeners. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
-## Upcoming Community Forum
+## Upcoming Community Forum and AI policy development
 
 ![Alt: Alt text goes here.](https://i.imgur.com/fl5JIAd.png)
 
