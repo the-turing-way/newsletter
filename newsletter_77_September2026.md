@@ -135,10 +135,19 @@ _It's been a busy few months of talks by and with community leaders. As always, 
 
 # In *The Turing Way* Orbit
 
-## Software Sustainabilty Institute (SSI) Fellowship applications open!
-The Turing Way Community has many SSI Fellows as the two organisations are very aligned in their visions and so we are excited to see the applications for the 2027 round of the SSI Fellowship Programme are now open.
+## Congratulations to the Institute of Research Software and Fellowship applications open!
 
-The Fellowship Programme aims to improve and promote good computational practice across all research disciplines and support those who are doing this important work. Each year, the SSI select around 20 Fellows, including up to three international Fellows. Each Fellow receives a £4,000 budget to organise or attend activities that promote good software practice, and joins a wider community through mentoring, cohort-based learning, monthly community calls, study groups, and attendance at the annual Collaborations Workshop.
+Big congratulations to the Institute for Research Software (fka Software Sustainability Institute) on their change of name!
+
+For over a decade, the Software Sustainability Institute (SSI) has worked to make research software more sustainable and properly recognised.
+
+Their name and appearance have now changed to the Institute for Research Software, but it remains the same Institute, building on the same relationships, programmes and commitments. Learn more: [https://www.software.ac.uk/blog/introducing-institute-research-software](https://www.software.ac.uk/blog/introducing-institute-research-software).
+
+### Fellowship open
+
+The Turing Way Community has many Institute of Research Software (SSI) Fellows as the two organisations are very aligned in their visions and so we are excited to see the applications for the 2027 round of their Fellowship Programme are now open.
+
+The Fellowship Programme aims to improve and promote good computational practice across all research disciplines and support those who are doing this important work. Each year, the Institute select around 20 Fellows, including up to three international Fellows. Each Fellow receives a £4,000 budget to organise or attend activities that promote good software practice, and joins a wider community through mentoring, cohort-based learning, monthly community calls, study groups, and attendance at the annual Collaborations Workshop.
 
 The programme is open to applicants at any career stage and from any background: PhD candidates, junior research software engineers, professors, directors of research computing, and anyone who supports research, training, or research infrastructure, including those without a formal software background.
 
@@ -146,6 +155,14 @@ Find more details on the [webpage here](https://www.software.ac.uk/news/ssi-fell
 
 
 ## RCM Cooperative Monthly Meetups starting 15 September
+
+This September, RCM Cooperative is launching its monthly meetup series, creating a recurring online space for anyone who supports, manages, or is curious about research communities.
+
+They are kicking off the series on 15th September, 13:00–14:00 UK time, with a session on 'what RCM Cooperative is and how to get involved', led by RCM Cooperatives Co-executive Directors, Dr. Cassandra Gould van Praag and Dr. Emma Karoune. From there, they will run monthly sessions with themes shaped by the community.
+
+The Turing Way is pleased to be working in partnership with RCM Cooperative by providing support for their meetups and Emma is currently bringing her RCM skills to The Turing Way by helping to co-lead the Community Management Working Group while Sara Villa is on maternity leave. It is great to see such productive collaborations happening in our open research ecosystem.   
+
+Find out more information about the RCM Cooperative meetups by reading [their blog](https://www.rcmcooperative.com/blog/introducing-monthly-meetups/) and registration is open now [register here](https://us06web.zoom.us/meeting/register/HdW_w4-6Sv2XIrYyzFSiVA)! 
 
 
 
