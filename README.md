@@ -10,6 +10,9 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | Month | Date | GitHub link | Buttondown link |
 | ----- | ---- |----------- | --------------- |
 | February | 2026-03-10 | [73_Feb2026](newsletter_73_Feb2026.md) | [🌸 Did you miss us? The Turing Way's 2025 in Review](https://buttondown.com/turingway/archive/u1f338-did-you-miss-us-the-turing-ways-2025-in/) |
+| April | 2026-04-10 | [74_April2026](newsletter_74_April2026.md) | [Spring Updates from The Turing Way Community 🌱](https://buttondown.com/turingway/archive/spring-updates-from-the-turing-way-community/) |
+| May | 2026-04-23 | [75_May2026](newsletter_75_May2026.md) | [LAST DAYS to apply to the Turing Way Book Dash - May edition 🌸](https://buttondown.com/turingway/archive/last-days-to-apply-to-the-turing-way-book-dash/) |
+| July | 2026-07-07 | [76_July2026](newsletter_76_July2026.md) | [Staying Cool: Mid-year Review from The Turing Way Community 🌱](https://buttondown.com/turingway/archive/staying-cool-mid-year-review-from-the-turing-way/)
 
 ## 2025
 
