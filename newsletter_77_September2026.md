@@ -111,12 +111,6 @@ Feel free to drop in to meet the community, do some focused writing, or otherwis
 * ✅ **Community Management Working Group Meetings**: every Tuesday at 14:00 UK time.
 * ✅ **Funding and Sustainability Meetings**: every second Friday of the month, at 15:00 UK time.
 
-## Upcoming Turing Way events
-
-📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
-
-✨ If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023).
-
 ---
 
 ![Alt: A person sitting in an online call with four other people located in other parts of the worls. There is small plant on the desk next of the computer, and a dog sitting on the floor.](https://i.imgur.com/OQXRn5U.jpg)
@@ -170,6 +164,7 @@ You are welcome to join *The Turing Way* community, and learn more about the pro
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 *   [Twitter profile](https://twitter.com/turingway)
 
-If you'd like to contribute to the next newsletter, please email Anne Lee Steele at asteele@turing.ac.uk! Feel free to send her a message on Slack, or [book some time in on Anne's calendly](calendly.com/aleesteele/) to say hello.
+
+
 
 _Did you miss the last newsletters?_ _Check them out [here](https://tinyletter.com/TuringWay/archive)._
