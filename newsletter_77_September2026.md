@@ -157,12 +157,11 @@ You are welcome to join *The Turing Way* community, and learn more about the pro
 
 *   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 *   [_The Turing Way_ book](https://the-turing-way.netlify.com)
-*   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 *   [Mastodon profile](https://scholar.social/web/@turingway@fosstodon.org)
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-*   [Twitter profile](https://twitter.com/turingway)
+
 
 
 
