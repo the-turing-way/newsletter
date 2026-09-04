@@ -1,4 +1,4 @@
-# Busy Month Ahead!
+# Autumn is here - updates from The Turing Way Community
 
 Although many of our community members took a well earned break over August, September looks to be a busy month for The Turing Way and our connected communities. 
 
@@ -24,9 +24,7 @@ If you're interested in keeping up in real-time, don't forget that you can alway
 ![Alt: Hand-drawn sketch of "our Community" drawn, featuring a garden that has people working with each other in maintaining, cleaning, working on computers and welcoming others.](https://i.imgur.com/AJgGmCn.jpg)
 _Illustration by Scriberia showing community as a garden and members as gardeners. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
-## Upcoming Community Forum and AI policy development - have your say
-
-![Alt: Alt text goes here.](https://i.imgur.com/fl5JIAd.png)
+## Upcoming Community Forum and AI policy development - Have your say
 
 This month, we're gathering our community to get input on our AI Policy at the Community Forum on 24 September Month, 15:00-16:30 UTC+1 ([see in your time zone](https://arewemeetingyet.com/London/2022-06-30/16:00)).
 
@@ -38,15 +36,17 @@ We encourage you to read and comment on our AI policy before the forum.
 
 To join the community forum, please [register on zoom here](https://us06web.zoom.us/meeting/register/_ZEFMawfRUatwO_VeWEzFg). 
 
-## Applications Open for November Book Dash!
+## Applications Open for our November Book Dash: 30 November to 4 December 2026!
+
+![Alt: Alt text goes here.](https://i.imgur.com/fl5JIAd.png) - Add Book Dash image
 
 Applications are now open for our 16th Book Dash!
 
 The Turing Way Book Dash is a bi-annual collaborative event where you'll work with others to add to and improve The Turing Way book or contribute to the project in another way and become a part of its community. Find more details about the Book Dash in [The Turing Way Community Handbook](https://book.the-turing-way.org/community-handbook/bookdash/).
 
-Our forthcoming Book Dash will happen during the week of **30th November to 4th December**.
+Our forthcoming Book Dash will happen during the week of **30 November to 4 December**.
 
-This time, we will start the week with two days of online contribution sessions on 30th November and 1st December. The following two days, 2nd and 3rd December, will have various local in-person hubs located around the world - London, UK, the Netherlands, and Memphis, USA.
+This time, we will start the week with two days of online contribution sessions on 30 November and 1 December. The following two days, 2 and 3 December, will have various local in-person hubs located around the world - London, UK, the Netherlands, and Memphis, USA.
 
 We are very grateful to be supported at this Book Dash by the Institute of Research Software, which allows us to provide an accessibility fund for participants. More details of our accessibility fund can be found on the application form. 
 
@@ -59,7 +59,7 @@ To apply for the Book Dash, please fill in [the application form](ADD Link).
 **Please apply by 28 October 2026 (midnight anywhere on Earth).** 
 
 
-## Scriberia at the November Book Dash
+## Scriberia is back at the November Book Dash!
 
 We are excited to announce the return of Scriberia to the Book Dash. 
 
@@ -111,23 +111,11 @@ Feel free to drop in to meet the community, do some focused writing, or otherwis
 * ✅ **Community Management Working Group Meetings**: every Tuesday at 14:00 UK time.
 * ✅ **Funding and Sustainability Meetings**: every second Friday of the month, at 15:00 UK time.
 
-## Upcoming events
+## Upcoming Turing Way events
 
 📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
 
 ✨ If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023).
-
----
-
-![Alt: Hand-drawn sketch of two people walking up a hill with different paths up a hill titled: Your path, Your stories, your experience. The subtitle "People are really important" is next to the paths. At the top of the hill lies people, and the subtitle "The better world for researchers.](https://i.imgur.com/eEbL1jD.jpg)
-_It's been a busy few months of talks by and with community leaders. As always, you can find an ongoing record in our [Zenodo Community](https://zenodo.org/communities/the-turing-way/) page._
-
-# Talks and Workshops
-- **Name** and **Name** gave talks about "Title" on X and X Month: [Zenodo link]
-- **Name** and **Name** gave talks about "Title" on X and X Month: [Zenodo link]
-- **Name** and **Name** gave talks about "Title" on X and X Month: [Zenodo link]
-- **Name** and **Name** gave talks about "Title" on X and X Month: [Zenodo link]
-- **Name** and **Name** gave talks about "Title" on X and X Month: [Zenodo link]
 
 ---
 
@@ -165,30 +153,7 @@ The Turing Way is pleased to be working in partnership with RCM Cooperative by p
 Find out more information about the RCM Cooperative meetups by reading [their blog](https://www.rcmcooperative.com/blog/introducing-monthly-meetups/) and registration is open now [register here](https://us06web.zoom.us/meeting/register/HdW_w4-6Sv2XIrYyzFSiVA)! 
 
 
-
-## Other opportunities
-- Job: Organisation: Role
-    - ⏰ Apply by 15 January 2023
-    - 📍 Location: Remote, with a supervisor based in The Netherlands
-    - 🔗 [Read Details](https://)
-- Job: Organisation: Role
-    - ⏰ Apply by 15 January 2023
-    - 📍 Location: Remote, with a supervisor based in The Netherlands
-    - 🔗 [Read Details](https://)
-- Job: Organisation: Role
-    - ⏰ Apply by 15 January 2023
-    - 📍 Location: Remote, with a supervisor based in The Netherlands
-    - 🔗 [Read Details](https://)
-- Fellowship: Organisation: Role
-    - ⏰ Apply by 15 January 2023
-    - 📍 Location: Remote, with a supervisor based in The Netherlands
-    - 🔗 [Read Details](https://)
-- Funding Opportunity: Organisation: Role
-    - ⏰ Apply by 15 January 2023
-    - 📍 Location: Remote, with a supervisor based in The Netherlands
-    - 🔗 [Read Details](https://)
-
-*For more events, subscribe to the [Open Research Calendar](https://openresearchcalendar.org/).*
+*For more open science focused events, subscribe to the [Open Research Calendar](https://openresearchcalendar.org/).*
 
 -----
 
