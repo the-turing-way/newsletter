@@ -85,7 +85,7 @@ We have a survey about your engagement with The Turing Way!
 
 Please take ~5 minutes to fill out the questions, which should help us to identify better ways to support The Turing Way contributors in the long haul (and help publish this article by **Esther Plomp & Denise Bianco**: [https://doi.org/10.5281/zenodo.18624335-](https://doi.org/10.5281/zenodo.18624335-) in which you can also find more information about the study).
 
-[Fill out the survey form is here](https://docs.google.com/forms/d/e/1FAIpQLSenSRSRdoCx6TUAKOpUplH7aSTDcXMPQsVRedbg1UU0O9w2Og/viewform)
+[Fill out the survey form here](https://docs.google.com/forms/d/e/1FAIpQLSenSRSRdoCx6TUAKOpUplH7aSTDcXMPQsVRedbg1UU0O9w2Og/viewform)
 
 ---
 
